@@ -13,7 +13,7 @@ My interests are as follows:
 - Traffic safety
 - Disaster relief
 
-I am also involved in a variety of other researche projects.
+I am also involved in a variety of other research projects:
 
 - [RoboCupRescue Simulation](https://rescuesim.robocup.org/)
 - [Airtificial Intelligence based Werewolf](https://aiwolf.org/server)
