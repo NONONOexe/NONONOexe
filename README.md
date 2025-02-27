@@ -23,8 +23,9 @@ I am also involved in a variety of other research projects:
 I develop R packages related to our research.
 
 - [jpaccidents](https://github.com/NONONOexe/jpaccidents): Tools for Traffic Accident Data in Japan
+- [rrstools](https://github.com/NONONOexe/rrstools): Tools for Analyzing RoboCupRescue Simulation Data
+- [setariaviridis](https://github.com/NONONOexe/setariaviridis): Field-Collected Data of Green Foxtail
 - [aichicities](https://github.com/NONONOexe/aichicities): Aichi Prefecture Administrative Area Data in an Easy-to-use Format in R
-- [kyotocities](https://github.com/NONONOexe/kyotocities): Kyoto Prefecture Administrative Area Data in an Easy-to-use Format in R
 
 ### Currently studying :pencil:
 
