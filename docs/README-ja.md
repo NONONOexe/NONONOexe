@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nononoexe.github.io/blog/"><img src="https://readme-typing-svg.herokuapp.com?font=Limelight&size=40&duration=3000&pause=3000&color=FFDD00&center=true&vCenter=true&random=false&width=435&lines=NONONOexe" alt="Typing SVG" /></a><br>
-  こんにちは👋愛知工業大学で博士後期課程でマルチエージェントシミュレーションを用いた研究に取り組んでいます。<br>
+  こんにちは👋愛知工業大学の博士後期課程でマルチエージェントシミュレーションを用いた研究に取り組んでいます。<br>
   <span style="user-select: none">////////////////////////////////</span><br>
   日本語 | <a href="../README.md">English</a><br>
   <span style="user-select: none">////////////////////////////////</span>
