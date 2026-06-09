@@ -1,14 +1,16 @@
 <p align="center">
   <a href="https://nononoexe.github.io/blog/"><img src="https://readme-typing-svg.herokuapp.com?font=Limelight&size=40&duration=3000&pause=3000&color=FFDD00&center=true&vCenter=true&random=false&width=435&lines=NONONOexe" alt="Typing SVG" /></a><br>
-  Hello!👋 I am a Ph.D. student at Aichi Institute of Technology researching multi-agent systems.<br>
+  Hello!👋 I am a lecturer at Iwate Prefectural University researching multi-agent systems.<br>
   <span style="user-select: none">////////////////////////////////</span><br>
   English | <a href="docs/README-ja.md">日本語</a><br>
   <span style="user-select: none">////////////////////////////////</span>
 </p>
 
-### GitHub Stats :star:
+### Skills & Tools :toolbox:
 
-<img src="https://github-readme-stats.vercel.app/api?username=NONONOexe&theme=gruvbox">
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 ### My research interests :telescope:
 
@@ -46,8 +48,8 @@ I develop R packages related to our research.
 
 ### Recent Activities :pencil:
 
-Recently, I have been working on writing my doctoral dissertation and organizing events.
-If you have any work requests or inquiries, please feel free to contact me at [my mail address](mailto:ando@maslab.aitech.ac.jp).
+Recently, I have developing tools for map conversion and analysis in RoboCupRescue Simulation.
+If you have any work requests or inquiries, please feel free to contact me at [my mail address](mailto:nononoexe@ymail.ne.jp).
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/gkei0429g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
