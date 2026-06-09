@@ -1,14 +1,16 @@
 <p align="center">
   <a href="https://nononoexe.github.io/blog/"><img src="https://readme-typing-svg.herokuapp.com?font=Limelight&size=40&duration=3000&pause=3000&color=FFDD00&center=true&vCenter=true&random=false&width=435&lines=NONONOexe" alt="Typing SVG" /></a><br>
-  こんにちは👋愛知工業大学の博士後期課程でマルチエージェントシミュレーションを用いた研究に取り組んでいます。<br>
+  こんにちは👋岩手県立大学の講師としてマルチエージェントシミュレーションを用いた研究をしています。<br>
   <span style="user-select: none">////////////////////////////////</span><br>
   日本語 | <a href="../README.md">English</a><br>
   <span style="user-select: none">////////////////////////////////</span>
 </p>
 
-### GitHub Stats :star:
+### スキル・ツール :toolbox:
 
-<img src="https://github-readme-stats.vercel.app/api?username=NONONOexe&theme=gruvbox">
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
 ### 研究分野 :telescope:
 
@@ -45,8 +47,8 @@
 
 ### 最近の活動 :pencil:
 
-最近では、今年度の卒業に向けた博士論文の執筆やイベントの運営などに取り組んでいます。
-また、お仕事の依頼、ご相談などがありましたら、私の[メールアドレス](mailto:ando@maslab.aitech.ac.jp)までご連絡ください。
+最近はロボカップレスキューシミュレーションにおける地図のコンバートや分析のためのツールを開発しています。
+また、お仕事の依頼、ご相談などがありましたら、私の[メールアドレス](mailto:nononoexe@ymail.ne.jp)までご連絡ください。
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/gkei0429g" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="自費出版や活動のためのスポンサー募集！" style="height: 60px !important;width: 217px !important;" ></a>
